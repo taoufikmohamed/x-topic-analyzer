@@ -1,6 +1,6 @@
 # X Topic Search and Analysis App
 
-A powerful Python application for searching and analyzing topics on X (formerly Twitter) using AI-powered summarization.
+A powerful Python application for searching and analyzing topics on X (formerly Twitter) using AI-powered summarization!.
 
 ## 📋 Project Overview
 
